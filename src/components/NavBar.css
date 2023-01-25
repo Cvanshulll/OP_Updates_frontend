@@ -1,0 +1,9 @@
+.star {
+    color: white;
+    text-decoration: none;
+}
+
+.star:hover {
+    color: black;
+    text-decoration: none;
+}

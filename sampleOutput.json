@@ -1,0 +1,30 @@
+[
+    {
+        "url": "http://cvanshul.pythonanywhere.com/api/v1/opportunities/1/",
+        "name": "Amazon",
+        "role": "Software Development Engineer - Campus Hire - Summer Intern",
+        "batch": "2024",
+        "job_id": "2146508",
+        "job_link": "https://amazon.jobs/en/jobs/2146508/software-development-engineer-campus-hire-summer-intern",
+        "location": "IN, KA, Bengaluru",
+        "end_date": "2023-02-28",
+        "description": "Job summary\r\nSoftware Development Engineer Summer Internship - 2023\r\n\r\nBASIC QUALIFICATIONS\r\n• Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application\r\n• Familiarity with the syntax of languages such as Java, C/C++ or Python.\r\n• Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.\r\n\r\nPREFERRED QUALIFICATIONS\r\n• Previous technical internship(s).\r\n• Experience with distributed, multi-tiered systems, algorithms, and relational databases.\r\n• Experience in optimization mathematics such as linear programming and nonlinear optimization.\r\n• Effectively articulate technical challenges and solutions.\r\n• Adept at handling ambiguous or undefined problems as well as ability to think abstractly.",
+        "stipend": "-",
+        "added_date": "2023-01-16",
+        "active": true
+    },
+    {
+        "url": "http://cvanshul.pythonanywhere.com/api/v1/opportunities/2/",
+        "name": "Google",
+        "role": "SDE - Winter Intern",
+        "batch": "2025/2024",
+        "job_id": "214453",
+        "job_link": "https://google.jobs/en/jobs/214453/software-development-engineer-summer-intern",
+        "location": "IN, Pune",
+        "end_date": "2023-01-30",
+        "description": "Software Development Engineer Winter Internship\r\n\r\nBASIC QUALIFICATIONS\r\n",
+        "stipend": "1Lakh/month",
+        "added_date": "2023-01-17",
+        "active": true
+    }
+]
