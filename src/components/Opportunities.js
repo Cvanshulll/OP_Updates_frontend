@@ -16,8 +16,10 @@ export default function Opportunities() {
     useEffect(() => {
         async function getAllOpportunity() {
             try {
-                const opportunities = await axios.get("http://vanshul.pythonanywhere.com/")
+                const opportunities = await axios.get("https://vanshul.pythonanywhere.com/")
                 // console.log(opportunities.data)
+                // reverse opportunities
+                opportunities.data.reverse()
                 setOpportunities(opportunities.data)
                 setLoading(false)
             }

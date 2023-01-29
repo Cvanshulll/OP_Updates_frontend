@@ -27,7 +27,7 @@ export default function NavBar() {
                             <form className="d-fluid justify-content-start">
                                 {/* <button class="btn btn-outline-success me-2" type="button">Main button</button> */}
                                 <button className="btn btn-sm btn-outline-light" type="button">
-                                    <a className='star' href='https://github.com/Cvanshulll/OP_Updates' target="_blank">&#9734;&nbsp;Star</a>
+                                    <a className='star' href='https://github.com/Cvanshulll/OP_Updates' target="_blank" rel="noreferrer">&#9734;&nbsp;Star</a>
                                 </button>
                             </form>
 
