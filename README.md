@@ -1,4 +1,4 @@
 ## OP_UPDATES
 
 Project 
-![Alt text](https://drive.google.com/file/d/1o6fowkGvt0tR-CAO4VhKEoSg22Xw1o50/view?usp=drive_link)
+<img href="./op_updates_images/op_updates_img_1" alt="project_img_1"/>
